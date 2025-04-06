@@ -33,4 +33,4 @@ java SinemaApp
 ## 👤 Geliştirici
 
 - Ad: Ceyhun Emre Şener
-- Mail: ceyhunemresener@example.com
+- Mail: ceyhunemre.sener@stu.pirireis.edu.tr
